@@ -218,29 +218,6 @@ The comparison highlighted the complementary characteristics of both sensing tec
 
 ---
 
-## Example Outputs
-
-The project generates
-
-- LiDAR waveform visualization
-- Forest transects
-- Coherence matrices
-- Capon power spectrum
-- LiDAR–TomoSAR comparison plots
-
-Example figures can be placed inside a `figures/` directory.
-
-```text
-figures/
-├── lidar_waveform.png
-├── lidar_transect.png
-├── coherence_matrix.png
-├── capon_power.png
-└── comparison.png
-```
-
----
-
 # Repository Structure
 
 ```text
