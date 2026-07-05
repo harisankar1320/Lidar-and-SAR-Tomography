@@ -266,8 +266,6 @@ The comparison highlighted the complementary characteristics of both sensing tec
 
 ---
 
-## Authors
-
+## Author:
 **Harisankar Harikumar**
 
-**Dorsa Amini**
